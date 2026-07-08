@@ -1,9 +1,10 @@
 # 📌Sales Performance Dashboard (Excel)
 An interactive Power BI dashboard for tracking retail sales performance across products, regions, and sales personnel.
-Overview
+
+# 📌Overview
 This dashboard provides a consolidated view of key sales metrics — Total Sales, Average Sales, Units Sold, and Profit — with interactive filters for Product, Sales Person, and Region to enable dynamic, drill-down analysis.
 
-# Key Metrics
+# 🛠Key Metrics
 
 - Total Sales: ₹1,29,44,500
 - Average Sales: ₹2,58,890
@@ -23,7 +24,7 @@ This dashboard provides a consolidated view of key sales metrics — Total Sales
 
 
 
-# Features
+# 🎯Features
 
 - Interactive slicers for Product, Sales Person, and Region
 - Real-time filtering across all visuals
