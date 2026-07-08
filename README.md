@@ -1,4 +1,4 @@
-<img width="1089" height="565" alt="WhatsApp Image 2026-07-08 at 9 50 32 PM" src="https://github.com/user-attachments/assets/86b08119-7de5-419d-a86c-f7104301099b" /><img width="1089" height="565" alt="image" src="https://github.com/user-attachments/assets/aab7e11a-7cc9-4af7-8f71-16d52ab27a5c" /># 📌Sales Performance Dashboard (Excel)
+# 📌Sales Performance Dashboard (Excel)
 An interactive Power BI dashboard for tracking retail sales performance across products, regions, and sales personnel.
 Overview
 This dashboard provides a consolidated view of key sales metrics — Total Sales, Average Sales, Units Sold, and Profit — with interactive filters for Product, Sales Person, and Region to enable dynamic, drill-down analysis.
